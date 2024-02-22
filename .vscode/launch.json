@@ -1,0 +1,126 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TypeCast",
+            "request": "launch",
+            "mainClass": "TypeCast",
+            "projectName": "Java 2024_e21611c5"
+        },
+        {
+            "type": "java",
+            "name": "Str",
+            "request": "launch",
+            "mainClass": "Str",
+            "projectName": "Java 2024_e21611c5"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "Java 2024_e21611c5"
+        },
+        {
+            "type": "java",
+            "name": "Customer",
+            "request": "launch",
+            "mainClass": "Customer",
+            "projectName": "Java 2024_e21611c5"
+        },
+        {
+            "type": "java",
+            "name": "MaxElementInTree",
+            "request": "launch",
+            "mainClass": "max.MaxElementInTree",
+            "projectName": "Java 2024_e21611c5"
+        },
+        {
+            "type": "java",
+            "name": "MaxElementInTree",
+            "request": "launch",
+            "mainClass": "MaxElementInTree",
+            "projectName": "Java 2024_e21611c5"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Basic",
+            "request": "launch",
+            "mainClass": "Basic",
+            "projectName": "Java 2024_e21611c5"
+        },
+        {
+            "type": "java",
+            "name": "BinaryTree",
+            "request": "launch",
+            "mainClass": "BinaryTree",
+            "projectName": "Java 2024_e21611c5"
+        },
+        {
+            "type": "java",
+            "name": "Default",
+            "request": "launch",
+            "mainClass": "Default",
+            "projectName": "Java 2024_e21611c5"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList",
+            "projectName": "Java 2024_e21611c5"
+        },
+        {
+            "type": "java",
+            "name": "Variable",
+            "request": "launch",
+            "mainClass": "Variable",
+            "projectName": "Java 2024_e21611c5"
+        },
+        {
+            "type": "java",
+            "name": "Bank",
+            "request": "launch",
+            "mainClass": "com.example.bank.Bank",
+            "projectName": "Java 2024_e21611c5"
+        },
+        {
+            "type": "java",
+            "name": "Customer",
+            "request": "launch",
+            "mainClass": "com.example.customer.Customer",
+            "projectName": "Java 2024_e21611c5"
+        },
+        {
+            "type": "java",
+            "name": "Pack",
+            "request": "launch",
+            "mainClass": "com.example.packageexample.Pack",
+            "projectName": "Java 2024_e21611c5"
+        },
+        {
+            "type": "java",
+            "name": "sample",
+            "request": "launch",
+            "mainClass": "sample",
+            "projectName": "Java 2024_e21611c5"
+        },
+        {
+            "type": "java",
+            "name": "wave",
+            "request": "launch",
+            "mainClass": "wave",
+            "projectName": "Java 2024_e21611c5"
+        }
+    ]
+}

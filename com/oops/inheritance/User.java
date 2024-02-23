@@ -6,6 +6,6 @@ public class User extends Student{
     public static void main(String[] args) {
         Admin a = new Admin();
         a.read(); 
-        System.out.println(Student.j);  
+        print();
     }
 }

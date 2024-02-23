@@ -11,7 +11,6 @@ public class InstaGram {
             for(int i = 1; i < a.size(); i++)
                 a.remove(i);
             System.out.println(a);
-            System.out.println("Hello");
         }
         
     }

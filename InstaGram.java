@@ -12,6 +12,7 @@ public class InstaGram {
                 a.remove(i);
             System.out.println(a);
         }
+        System.out.println("hello");
         
     }
 }

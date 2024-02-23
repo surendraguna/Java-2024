@@ -1,11 +1,11 @@
 package com.oops.inheritance;
 
-/**
- * Admin
- */
 public class Admin extends Dev {
     public void manage(){
-        System.out.println("Manage Mode");
+        super.read();
+        System.out.println("Admin Manage Mode");
     }
-
+    public void read(){
+        System.out.println("Admin read");
+    }
 }

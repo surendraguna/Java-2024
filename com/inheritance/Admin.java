@@ -1,4 +1,4 @@
-package com.oops.inheritance;
+package com.inheritance;
 
 public class Admin extends Dev {
     public void manage(){

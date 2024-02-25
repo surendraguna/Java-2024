@@ -38,6 +38,8 @@ public class LinkedList {
             }
         }
 
+        sc.close();
+
     }
 
     static void insertAtFirst(int data){

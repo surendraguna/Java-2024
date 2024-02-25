@@ -24,6 +24,7 @@ public class Arr {
         }
         for(arr i: a)
             System.out.println(i.id + " " + i.name);
+        s.close();
     }
 
 }

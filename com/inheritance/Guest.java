@@ -1,4 +1,4 @@
-package com.oops.inheritance;
+package com.inheritance;
 
 public class Guest {
     public void read(){

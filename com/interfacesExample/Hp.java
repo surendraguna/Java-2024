@@ -13,7 +13,6 @@ public class Hp extends Guest{
 
     @Override
     public void master() {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'master'");
+        System.out.println("HP master");
     }
 }

@@ -13,6 +13,7 @@ public class MapPractice {
         h.put(1, "Surendra");
         h.put(3, "Surendra1");
         h.put(2, "Surendra2");
+        h.put(2, "hello");
         Set<Integer> keys = h.keySet();
         for (Integer i : keys) {
             System.out.print(i + " ");

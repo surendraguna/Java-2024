@@ -1,4 +1,4 @@
-package com.encapsulation;
+package com.encapsulationPractice;
 
 class Teacher{
     public static void main(String[] args) {

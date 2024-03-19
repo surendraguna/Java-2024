@@ -35,6 +35,6 @@ public class SetPractice {
         ts.add(1);
         ts.add(3);
         ts.add(4);
-        System.out.println(ts);
+        System.out.println(ts + " " + ts.size());
     }   
 }

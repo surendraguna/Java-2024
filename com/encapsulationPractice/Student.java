@@ -1,4 +1,4 @@
-package com.encapsulation;
+package com.encapsulationPractice;
 
 public class Student {
     private int id;

@@ -13,5 +13,7 @@ public class Ascii {
         int i  = 5;
         j = 10;
         System.out.println(++i + i++ - ++j - --i + i++ - ++j);
+        char d = 65;
+        System.out.println(d);
     }
 }

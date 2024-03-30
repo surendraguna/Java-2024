@@ -11,6 +11,5 @@ public class Buffer {
         StringBuilder s5 = new StringBuilder("hello");
         s1 = "sure1@1324";
         System.out.println(Character.isDigit(s1.charAt(4)));
-        Integer n = 10;
     }
 }
